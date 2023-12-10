@@ -22,5 +22,4 @@ I am not responsible for nuked servers.
 
 # DISCORD
 
-IF you want to join the discord, use this invite:
-[invite](https://discord.gg/B7gnBeZSKW)
+IF you want to join the discord, use this [invite](https://discord.gg/B7gnBeZSKW).
