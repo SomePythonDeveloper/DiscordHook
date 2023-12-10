@@ -1,7 +1,7 @@
 # REQUIREMENTS
 
 To download the requirements file do:
-```$ pip install -r requirements.txt'```
+```$ pip install -r requirements.txt```
 
 # CLONING
 
