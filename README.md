@@ -1,3 +1,13 @@
+# REQUIREMENTS
+
+To download the requirements file do:
+```$ pip install -r requirements.txt'```
+
+# CLONING
+
+To clone the repository onto your local machine do:
+```$ git clone https://github.com/SomePythonDeveloper/DiscordHook/```
+
 # DiscoHook
 
 This is basically discloud but just better and offline if you need to.
