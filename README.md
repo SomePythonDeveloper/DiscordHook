@@ -1,4 +1,4 @@
-# DiscoHOok
+# DiscoHook
 
 This is basically discloud but just better and offline if you need to.
 
