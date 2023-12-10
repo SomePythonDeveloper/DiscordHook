@@ -1,0 +1,6 @@
+requests
+keyboard
+discord
+asyncio
+humanfriendly
+datetime
